@@ -1,1 +1,1 @@
-# JDBC-Connections
+# Hibernate
